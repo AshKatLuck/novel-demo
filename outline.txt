@@ -1,3 +1,6 @@
+=================
+outline
+=================
 chapter1:
 something
 chapter 2:
